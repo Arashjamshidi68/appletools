@@ -34,5 +34,17 @@
   {
     "aks": "https://s4.uupload.ir/files/love-in-few-hd-wallpapers_96m.jpg",
     "text": "https://s21.picofile.com/d/8442524026/814f6213-57c0-4471-afac-c2dfa8f5890e/Wall.zip"
+  },
+  {
+    "aks": "https://s4.uupload.ir/files/3613532_mm.jpg",
+    "text": "https://s21.picofile.com/d/8442524026/814f6213-57c0-4471-afac-c2dfa8f5890e/Wall.zip"
+  },
+  {
+    "aks": "https://s4.uupload.ir/files/negar_۲۰۲۱۱۰۲۰_۰۳۳۱۲۳_j407.png",
+    "text": "https://s21.picofile.com/d/8442524026/814f6213-57c0-4471-afac-c2dfa8f5890e/Wall.zip"
+  },
+  {
+    "aks": "https://s4.uupload.ir/files/negar_۲۰۲۱۱۰۲۰_۰۳۳۱۵۸_dmek.jpg",
+    "text": "https://s21.picofile.com/d/8442524026/814f6213-57c0-4471-afac-c2dfa8f5890e/Wall.zip"
   }
 ]
