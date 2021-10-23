@@ -1,0 +1,6 @@
+[
+  {
+    "code": "android.hardware.camera2.CameraManager cameraManager \u003d (android.hardware.camera2.CameraManager) getSystemService(Context.CAMERA_SERVICE);\ntry {\nString cameraId \u003d cameraManager.getCameraIdList()[0]; cameraManager.setTorchMode(cameraId, true); } catch (android.hardware.camera2.CameraAccessException e) { }",
+    "code_name": "کد روشن کردن چراغ قوه"
+  }
+]
