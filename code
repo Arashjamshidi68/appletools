@@ -2,5 +2,61 @@
   {
     "code": "android.hardware.camera2.CameraManager cameraManager \u003d (android.hardware.camera2.CameraManager) getSystemService(Context.CAMERA_SERVICE);\ntry {\nString cameraId \u003d cameraManager.getCameraIdList()[0]; cameraManager.setTorchMode(cameraId, true); } catch (android.hardware.camera2.CameraAccessException e) { }",
     "code_name": "کد روشن کردن چراغ قوه"
+  },
+  {
+    "code": "android.hardware.camera2.CameraManager cameraManager \u003d (android.hardware.camera2.CameraManager) getSystemService(Context.CAMERA_SERVICE);\ntry {\nString cameraId \u003d cameraManager.getCameraIdList()[0]; cameraManager.setTorchMode(cameraId, false); } catch (android.hardware.camera2.CameraAccessException e) { }",
+    "code_name": "کد خاموش کردن چراغ قوه"
+  },
+  {
+    "code": "_toolbar.setVisibility(View.GONE);",
+    "code_name": "کد مخفی کردن نوار ابزار"
+  },
+  {
+    "code": "WindowManager.LayoutParams lp \u003d getWindow().getAttributes(); lp.screenBrightness \u003d 75 / 80.0f; getWindow().setAttributes(lp);",
+    "code_name": "کد زیاد شدن نور صفحه"
+  },
+  {
+    "code": "\n//This code is use when you want to close all activity at once.\n\nfinishAffinity();",
+    "code_name": "کد فعالیت پایان تمام صفحات"
+  },
+  {
+    "code": "getWindow().setFlags(WindowManager.LayoutParams.FLAG_SECURE, WindowManager.LayoutParams.FLAG_SECURE);",
+    "code_name": "کد ضد اسکرین شات"
+  },
+  {
+    "code": "getActionBar().setSubtitle(عنوان مورد نظر شما);",
+    "code_name": "کد تغییر عنوان صفحه"
+  },
+  {
+    "code": "textview1.setTextColor(Color.parseColor(\"#000000\"));",
+    "code_name": "کد تغییر رنگ متن"
+  },
+  {
+    "code": "Intent i \u003d new Intent(android.content.Intent.ACTION_SEND); i.setType(\"text/plain\"); i.putExtra(android.content.Intent.EXTRA_SUBJECT, b); i.putExtra(android.content.Intent.EXTRA_TEXT, a); startActivity(Intent.createChooser(i,\"Share using\"));",
+    "code_name": "کد اشتراک متن"
+  },
+  {
+    "code": "textview1.setTextSize((float)14);",
+    "code_name": "کد تغییر سایز متن"
+  },
+  {
+    "code": "((ArrayAdapter)listview1.getAdapter()).getFilter().filter(edittext1.getText().toString());",
+    "code_name": "جستجو لیست ویو"
+  },
+  {
+    "code": "float x\u003dpreview.getScaleX(), y\u003dpreview.getScaleY(),yenix\u003dx+1,yeniy\u003dy+1; preview.setScaleX(yenix);preview.setScaleY(yeniy);",
+    "code_name": "کد بزرگنمایی عکس"
+  },
+  {
+    "code": "float x\u003dpreview.getScaleX(), y\u003dpreview.getScaleY(),yenix\u003dx-1,yeniy\u003dy-1; preview.setScaleX(yenix);preview.setScaleY(yeniy);",
+    "code_name": "کد کوچک نمایی عکس"
+  },
+  {
+    "code": "webview.getSettings().setSavePassword(true);",
+    "code_name": "ک ذخیره رمز - وب ویو"
+  },
+  {
+    "code": "edittext1.setError(\"متن خطا\");",
+    "code_name": "کد تنظیم ارور - ادیت تکست"
   }
 ]
