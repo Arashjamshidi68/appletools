@@ -58,5 +58,33 @@
   {
     "code": "edittext1.setError(\"متن خطا\");",
     "code_name": "کد تنظیم ارور - ادیت تکست"
+  },
+  {
+    "code": "linear1.setBackgroundColor(Color.parseColor(\"#000000\"));",
+    "code_name": "کد تنظیم رنگ بکگراند - لاینر"
+  },
+  {
+    "code": "BatteryManager bm \u003d (BatteryManager)getSystemService(BATTERY_SERVICE);\r\nint batLevel \u003d bm.getIntProperty(BatteryManager.BATTERY_PROPERTY_CAPACITY);\r\ntextview1.setText(Integer.toString(batLevel));",
+    "code_name": "کد نمایش درصد باتری"
+  },
+  {
+    "code": "final TextView mytext \u003d new TextView(ProjectinActivity.this); mytext.setText(\"Your Text\"); mytext.setTextColor(0xFF000000); mytext.setLayoutParams(new LinearLayout.LayoutParams(android.widget.LinearLayout.LayoutParams.WRAP_CONTENT, android.widget.LinearLayout.LayoutParams.WRAP_CONTENT)); mylinear.addView(mytext);",
+    "code_name": "کد ایجاد تکست ویو"
+  },
+  {
+    "code": "_fab.show();",
+    "code_name": "کد نمایش فب - FAB"
+  },
+  {
+    "code": "_fab.hide();",
+    "code_name": "کد مخفی شدن فب - FAB"
+  },
+  {
+    "code": "Intent launch \u003d getPackageManager().getLaunchIntentForPackage(\"com.my.project\"); \r\n\r\nif (launch !\u003d null) { startActivity(launchIntent); }",
+    "code_name": "کد بازکردن برنامه - Intent"
+  },
+  {
+    "code": "startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse(\"https://سایت شما\")));",
+    "code_name": "کد بازکردن وب - Intent"
   }
 ]
