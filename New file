@@ -1,3 +1,20 @@
-{
-  "button": "int[] colorsSHelper5539787 \u003d {Color.parseColor(\"#\" +\"2979ff\"), Color.parseColor(\"#\" +\"2979ff\")};\nandroid.graphics.drawable.GradientDrawable SHelper5539787 \u003d new android.graphics.drawable.GradientDrawable(android.graphics.drawable.GradientDrawable.Orientation.TOP_BOTTOM, colorsSHelper5539787);\nSHelper5539787.setCornerRadii(new float[]{(int)30, (int)30, (int)30, (int)30, (int)30, (int)30, (int)30, (int)30});\nSHelper5539787.setStroke((int)0, Color.parseColor(\"#\" +\"ff0000\"));\nbutton1.setElevation((float)0);\nbutton1.setAlpha((float)(0.89d));\nbutton1.setRotation((float)(24));\nbutton1.setBackground(SHelper5539787);"
-}
+[
+  {
+    "Download": "https://s6.uupload.ir/files/iphone_xs_wallpaper-for-standard_iphone_lbl.jpg"
+  },
+  {
+    "Download": "https://s6.uupload.ir/files/iphone-xs_wallpaper_green_yellow_for_iphone-x_u9ub.png"
+  },
+  {
+    "Download": "https://s6.uupload.ir/files/8d83e6f41dfd39c5400768042d18f949_0ep2.jpg"
+  },
+  {
+    "Download": "https://s6.uupload.ir/files/3678503_s08.png"
+  },
+  {
+    "Download": "https://s6.uupload.ir/files/anime-iphone-wallpaper_3ipq.jpg"
+  },
+  {
+    "Download": "https://s6.uupload.ir/files/cool-background-4k_h7l.jpg"
+  }
+]
