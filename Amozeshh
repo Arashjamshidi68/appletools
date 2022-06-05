@@ -1,0 +1,12 @@
+[
+  {
+    "مدرس": "amir",
+    "نام آموزش": "آموزش تغییر عکس برنامه",
+    "مدت زمان": "1:30",
+    "کد ها 1": "/* Your code generate */\n{\nandroid.graphics.drawable.GradientDrawable rd \u003d new android.graphics.drawable.GradientDrawable();\nrd.setColor(0xFFFFF000);\nfloat lt \u003d getDip(14);\nfloat rt \u003d getDip(14);\nfloat rb \u003d getDip(14);\nfloat lb \u003d getDip(14);\nrd.setCornerRadii(new float[]{\n\tlt,lt,rt ,rt,rb,rb ,lb,lb });\nj.setElevation(getDip(8));\nj.setBackground(rd);\n}",
+    "کد ها 2": "/* Your code generate */\n{\nandroid.graphics.drawable.GradientDrawable rd \u003d new android.graphics.drawable.GradientDrawable();\nrd.setColor(0xFFFFF000);\nfloat lt \u003d getDip(14);\nfloat rt \u003d getDip(14);\nfloat rb \u003d getDip(14);\nfloat lb \u003d getDip(14);\nrd.setCornerRadii(new float[]{\n\tlt,lt,rt ,rt,rb,rb ,lb,lb });\nj.setElevation(getDip(8));\nj.setBackground(rd);\n}",
+    "کد ها 3": "/* Your code generate */\n{\nandroid.graphics.drawable.GradientDrawable rd \u003d new android.graphics.drawable.GradientDrawable();\nrd.setColor(0xFFFFF000);\nfloat lt \u003d getDip(14);\nfloat rt \u003d getDip(14);\nfloat rb \u003d getDip(14);\nfloat lb \u003d getDip(14);\nrd.setCornerRadii(new float[]{\n\tlt,lt,rt ,rt,rb,rb ,lb,lb });\nj.setElevation(getDip(8));\nj.setBackground(rd);\n}",
+    "لینک تماشا": "https://enma.ir/",
+    "کد وجود دارد؟": "yes"
+  }
+]
